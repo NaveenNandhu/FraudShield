@@ -1,0 +1,7 @@
+shipperId,shipperName,averageWeight,averageDailyBookings,commonDestinations,normalBookingHourStart,normalBookingHourEnd,commonServiceType,averageDeclaredValue,accountAgeDays,knownPaymentMethods
+SHP-1024,Rajesh Sharma (Apex Express),8.4,12,"Chennai, Mumbai, Bangalore, Coimbatore",8,21,Standard,35000,412,"Credit Card (xxxx-4921), UPI Direct, Net Banking"
+SHIPPER-0091,Rajesh Sharma (Apex Express),8.4,12,"Chennai, Mumbai, Bangalore, Coimbatore",8,21,Standard,35000,412,"Credit Card (xxxx-4921), UPI Direct, Net Banking"
+SHP-2048,Vikram Global Logistics,15.2,8,"Bangalore, Hyderabad, Delhi NCR",9,19,Express,65000,730,"Corporate HDFC Bank, Credit Card (xxxx-8820)"
+SHIPPER-0412,Vikram Global Logistics,15.2,8,"Bangalore, Hyderabad, Delhi NCR",9,19,Express,65000,730,"Corporate HDFC Bank, Credit Card (xxxx-8820)"
+SHP-3096,Meera Patel (Patel Tex),22.0,5,"Mumbai, Ahmedabad, Surat",8,20,Standard,45000,280,"UPI Direct, NEFT Transfer"
+SHIPPER-0883,Meera Patel (Patel Tex),22.0,5,"Mumbai, Ahmedabad, Surat",8,20,Standard,45000,280,"UPI Direct, NEFT Transfer"
